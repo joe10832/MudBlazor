@@ -66,7 +66,7 @@
     <PackageReference Include="FuzzySharp" Version="2.0.2" />
     <PackageReference Include="Microsoft.AspNetCore.Components" Version="9.0.9" />
     <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="9.0.9" />
-    <PackageReference Include="Microsoft.AspNetCore.WebUtilities" Version="9.0.9" />
+    <PackageReference Include="Microsoft.AspNetCore.WebUtilities" Version="9.0.23" />
     <PackageReference Include="Blazored.LocalStorage" Version="4.5.0" />
   </ItemGroup>
 
